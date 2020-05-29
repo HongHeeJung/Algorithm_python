@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8be2ede-fcc4-40f2-a17f-867b50ea70ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/브루트포스/그냥/1, 2, 3 더하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/브루트포스/순열/다음 순열.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/브루트포스/좌표화/테트로미노.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스/좌표화/테트로미노.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
