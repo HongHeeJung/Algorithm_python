@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8be2ede-fcc4-40f2-a17f-867b50ea70ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/브루트포스/그냥/날짜계산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/브루트포스/mod/날짜계산_mod.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/브루트포스/일곱난쟁이.py" beforeDir="false" afterPath="$PROJECT_DIR$/브루트포스/그냥/일곱난쟁이.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/브루트포스/그냥/날짜계산.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +34,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hongh\Documents\GitHub\Algorithm_python\브루트포스\mod" />
       <recent name="C:\Users\hongh\Documents\GitHub\Algorithm_python\브루트포스\그냥" />
       <recent name="C:\Users\hongh\Documents\GitHub\Algorithm_python\연산_기초\GCD LCM" />
       <recent name="C:\Users\hongh\Documents\GitHub\Algorithm_python\연산_기초\소수" />
       <recent name="C:\Users\hongh\Documents\GitHub\Algorithm_python\브루트포스_기초\mod" />
-      <recent name="C:\Users\hongh\Documents\GitHub\Algorithm_python\브루트포스_기초\재귀" />
     </key>
   </component>
   <component name="RunManager">
