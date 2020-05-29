@@ -38,10 +38,14 @@ for i in range(n):
     for j in range(m):
         for block in blocks:
             ok = True
+            # 하나의 기준값을 잡고, 그 값을 s에 넣어주고
             s = a[i][j]
+            # 주변 블록을 모양에 맞게 넣어줌
             for dx, dy in block:
                 x, y = i + dx, j + dy
+                # 네모판 안에 있으면
                 if 0 <= x < n and 0 <= y < m:
+                    # 안에 있는 수들을 더해줌
                     s += a[x][y]
                 else:
                     ok = False
