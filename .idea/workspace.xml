@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8be2ede-fcc4-40f2-a17f-867b50ea70ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/브루트포스/그냥/1, 2, 3 더하기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/브루트포스/순열/다음 순열.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/브루트포스/순열/차이를 최대로.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,9 +117,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="555" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589087100950" />
-    <state x="853" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1590760367372">
+    <state x="853" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1590849409105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="853" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590760367372" />
+    <state x="853" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590849409105" />
   </component>
 </project>
